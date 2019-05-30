@@ -3,7 +3,7 @@
   <title>欢迎来到我的博客</title>
   
   <subtitle>寒城幻影</subtitle>
-  <link href="blog.github.io/atom.xml" rel="self"/>
+  <link href="/blog.github.io/atom.xml" rel="self"/>
   
   <link href="https://hanying803.github.io/"/>
   <updated>2019-05-30T12:21:26.450Z</updated>
