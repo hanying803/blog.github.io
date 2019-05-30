@@ -3,11 +3,11 @@
   <title>欢迎来到我的博客</title>
   
   <subtitle>寒城幻影</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="blog.github.io/atom.xml" rel="self"/>
   
-  <link href="https://hanying803.github.io/blog.github.io/"/>
+  <link href="https://hanying803.github.io/"/>
   <updated>2019-05-30T12:21:26.450Z</updated>
-  <id>https://hanying803.github.io/blog.github.io/</id>
+  <id>https://hanying803.github.io/</id>
   
   <author>
     <name>韩晓飞</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>第一篇文章</title>
-    <link href="https://hanying803.github.io/blog.github.io/2019/05/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>https://hanying803.github.io/blog.github.io/2019/05/30/第一篇文章/</id>
+    <link href="https://hanying803.github.io/2019/05/30/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://hanying803.github.io/2019/05/30/第一篇文章/</id>
     <published>2019-05-29T16:00:00.000Z</published>
     <updated>2019-05-30T12:21:26.450Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://hanying803.github.io/blog.github.io/1970/01/01/hello-world/"/>
-    <id>https://hanying803.github.io/blog.github.io/1970/01/01/hello-world/</id>
+    <link href="https://hanying803.github.io/1970/01/01/hello-world/"/>
+    <id>https://hanying803.github.io/1970/01/01/hello-world/</id>
     <published>1970-01-01T00:00:00.000Z</published>
     <updated>2019-05-30T11:58:34.691Z</updated>
     
